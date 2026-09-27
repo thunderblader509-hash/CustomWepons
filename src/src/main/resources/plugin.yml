@@ -2,4 +2,4 @@ name: CustomWeapons
 version: 1.0.0
 main: com.zenuxs.customweapons.CustomWeapons
 api-version: '1.21'
-description: Custom weapons plugin for Paper 1.21.1
+description: Custom weapons plugin for Paper 1.21.11
