@@ -2,10 +2,8 @@ name: CustomWeapons
 version: 1.0.0
 main: com.zenuxs.customweapons.CustomWeapons
 api-version: '1.21.11'
-description: Custom weapons plugin for Paper 1.21.11
 commands:
   customweapons:
     description: Get custom weapons
-    permission: customweapons.admin
     usage: /customweapons <dragon|bow|frozen|emerald|wither|wings>
     
